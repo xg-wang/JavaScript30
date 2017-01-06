@@ -7,7 +7,7 @@ Starter Files + Completed solutions + my solutions for the JavaScript 30 Day Cha
 Grab the original course at [https://JavaScript30.com](https://JavaScript30.com)
 
 # Online demo lists
-- [x] [01 - JavaScript Drum Kit](./01%20-%20JavaScript%20Drum%20Kit)
+- [x] [01 - JavaScript Drum Kit](https://xg-wang.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit)
 - [ ] [02 - JS + CSS Clock]()
 - [ ] [03 - CSS Variables]()
 - [ ] [04 - Array Cardio Day 1]()
