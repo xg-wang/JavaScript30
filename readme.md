@@ -12,7 +12,7 @@ I will record my solution thoughts and things I learned in my [blog](https://xg-
 # Online demo lists
 - [x] [01 - JavaScript Drum Kit](https://xg-wang.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit)
 - [x] [02 - JS + CSS Clock](https://xg-wang.github.io/JavaScript30/02%20-%20JS%20+%20CSS%20Clock)
-- [ ] [03 - CSS Variables]()
+- [x] [03 - CSS Variables](https://xg-wang.github.io/JavaScript30/03%20-%20CSS%20Variables)
 - [ ] [04 - Array Cardio Day 1]()
 - [ ] [05 - Flex Panel Gallery]()
 - [ ] [06 - Type Ahead]()
