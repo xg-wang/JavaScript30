@@ -130,7 +130,11 @@
     panels.forEach(p => {
       p.addEventListener('transitionend', function(e) {
         if (e.propertyName === 'font-size') {
-          this.classList.toggle('opened');
+          if (this.classList.contains('open')) {
+            this.classList.add('opened');
+          } else {
+            this.classList.remove('opened');
+          }
         }
       });
     });
