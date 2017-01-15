@@ -15,7 +15,7 @@ I will record my solution thoughts and things I learned in my [blog](https://xg-
 - [x] [03 - CSS Variables](https://xg-wang.github.io/JavaScript30/03%20-%20CSS%20Variables)
 - [ ] [04 - Array Cardio Day 1]()
 - [x] [05 - Flex Panel Gallery](https://xg-wang.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery)
-- [ ] [06 - Type Ahead]()
+- [x] [06 - Type Ahead](https://xg-wang.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html)
 - [ ] [07 - Array Cardio Day 2]()
 - [ ] [08 - Fun with HTML5 Canvas]()
 - [ ] [09 - Dev Tools Domination]()
