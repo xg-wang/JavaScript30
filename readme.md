@@ -17,7 +17,7 @@ I will record my solution thoughts and things I learned in my [blog](https://xg-
 - [x] [05 - Flex Panel Gallery](https://xg-wang.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery)
 - [x] [06 - Type Ahead](https://xg-wang.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html)
 - [ ] [07 - Array Cardio Day 2]()
-- [ ] [08 - Fun with HTML5 Canvas]()
+- [x] [08 - Fun with HTML5 Canvas](https://xg-wang.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 - [ ] [09 - Dev Tools Domination]()
 - [ ] [10 - Hold Shift and Check Checkboxes]()
 - [ ] [11 - Custom Video Player]()

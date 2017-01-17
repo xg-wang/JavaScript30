@@ -27,8 +27,7 @@ function numberWithCommas(x) {
 }
 
 const suggestions = document.querySelector('.suggestions');
-function update(e) {
-  console.log(e);
+function update() {
   const searchStr = this.value.toUpperCase();
   suggestions.innerHTML = data
     .filter(place => 
