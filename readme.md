@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Starter Files + Completed solutions + my solutions for the JavaScript 30 Day Challenge. 
+Starter Files + Completed solutions + my solutions for the JavaScript 30 Day Challenge.
 
 Grab the original course at [https://JavaScript30.com](https://JavaScript30.com)
 
@@ -19,7 +19,7 @@ I will record my solution thoughts and things I learned in my [blog](https://xg-
 - [ ] [07 - Array Cardio Day 2]()
 - [x] [08 - Fun with HTML5 Canvas](https://xg-wang.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 - [ ] [09 - Dev Tools Domination]()
-- [ ] [10 - Hold Shift and Check Checkboxes]()
+- [x] [10 - Hold Shift and Check Checkboxes]()
 - [ ] [11 - Custom Video Player]()
 - [ ] [12 - Key Sequence Detection]()
 - [ ] [13 - Slide in on Scroll]()
